@@ -11,4 +11,4 @@ D – Many pizzas -> 7,345,043 points
 
 E – Many teams -> 10,369,792 points
 
--Total score -> 724,347,708 points
+Total score -> 724,347,708 points
